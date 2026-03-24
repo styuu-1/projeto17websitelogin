@@ -3,7 +3,7 @@ Projeto dentre os 30 em que o professor jailson pediu em que há um site não fu
 
 17/30
 
-primeiro projeto codado em html e css
+primeiro projeto codado em html, css e javascript
 
 créditos ao projeto feito:
 
